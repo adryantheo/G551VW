@@ -9,7 +9,7 @@ Full Specs:
 - Nvidia GTX 960M
 - 12G RAM
 - 4K Monitor
-- ALC 668
+- Sound ALC 668
 - Wi-Fi AR9462
 - Touchpad ELAN Series/ 1200(?)
 - LAN Realtek 811.1
