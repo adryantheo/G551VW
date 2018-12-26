@@ -245,6 +245,8 @@
 		<string>nv_disable=1 dart=0 -cdfon -v</string>
 		<key>NeverHibernate</key>
 		<true/>
+		<key>NoEarlyProgress</key>
+		<true/>
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
