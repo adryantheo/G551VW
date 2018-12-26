@@ -16,7 +16,7 @@ Full Specs:
 - HDD Hitachi 1TB @7200 RPM
 
 Working:
-- QE/CI
+- QE/CI with HiDPI Built-in Retina Display 
 - Audio out
 - Touchpad
 - Brightness
