@@ -8,7 +8,8 @@ Full Specs:
 - Intel HD 530M
 - Nvidia GTX 960M
 - 12G RAM
-- 4K Monitor
+- Screen Size 15,6 Inch IPS
+- 4K Screen Res
 - Sound ALC 668
 - Wi-Fi AR9462
 - Touchpad ELAN Series/ 1200(?)
@@ -22,8 +23,9 @@ Working:
 - Brightness
 - FN Keys
 - Battery Stats
-- Shutdown, Restart, Sleep
+- Shutdown, Restart, Sleep, Wake with close & open LID
 - Keyboard Backlight
+- USB 3.0
 
 Not Working:
 - Bluetooth
