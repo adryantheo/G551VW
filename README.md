@@ -4,7 +4,7 @@ G551VW Configurations
 
 Full Specs:
 
-- Intel Core i7 6700HQ
+- Intel Core i7 6700HQ mobile
 - Intel HD 530M
 - Nvidia GTX 960M
 - 12G RAM
