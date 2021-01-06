@@ -1,3 +1,4 @@
+# For educational purposes only
 # G551VW
 # Currently running in Mojave 10.14.3 Beta (18D32a)
 G551VW Configurations
